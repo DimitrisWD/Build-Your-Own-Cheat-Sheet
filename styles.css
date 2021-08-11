@@ -1,0 +1,45 @@
+table {
+    font-family: monospace;
+    margin: 20px auto;
+    border-collapse: separate;
+    border: 1px solid #eee;
+    border-bottom: 2px solid #00cccc;
+}
+
+.element {
+    background-color: darksalmon;
+    font-weight:bold;
+}
+
+th, td {
+    color: rgb(90, 90, 90);
+    border: 3px solid #eee;
+    padding: 12px 35px;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+th {
+    background: #00cccc;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+body {
+    background: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    font-size: 25px;
+}
